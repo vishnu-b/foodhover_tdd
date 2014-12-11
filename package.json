@@ -1,0 +1,27 @@
+{
+  "name": "foodhover_tdd",
+  "version": "1.0.0",
+  "description": "Test Driven Food Hover",
+  "main": "server.js",
+  "scripts": {
+    "test": "tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://vishnutav@bitbucket.org/vishnutav/foodhover_tdd.git"
+  },
+  "keywords": [
+    "tdd",
+    "food"
+  ],
+  "author": "Vishnu B",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.5",
+    "jade": "^1.8.1"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  }
+}
